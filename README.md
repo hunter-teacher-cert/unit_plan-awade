@@ -4,17 +4,18 @@ by Alicia Wade
 -----
 
 ### General Overview
+Game Design with Python is a fun engaging Unit that will come after the students have completed the AP CSP exam. With about a month of class left in the school year, students will engage in a series of lessons that will build on the skills that they already know and learn to program with python to build a series of interactive games in this object oriented platform. 
 (include here description of unit, what class(es) it fits into, when...)
 
 
 ---
 
 ### Motivation for Unit
-Python is higly versatile programming language. It can be used to create both small and complex programs across all types of industries. It is one of the fastest growing, in demand programming languages. After the CSP AP exams, students are 
-
+Python is higly versatile programming language. It can be used to create both small and complex programs across all types of industries. It is one of the fastest growing, in demand programming languages. After the CSP AP exams, students are looking to decompress and are looking for fun engaging assignments. This Unit   
+will comprise of some mini python games that will not only introduce students to python as an oject oriented programming language. This Unit will take some skills that they have already learnt and extend that into creating fun interactive python games.
 ---
 
-### Standards Referenced
+### Standards Reference,
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
  * 9-12.CT.1 - Create a simple digital model that makes predictions of outcomes.
  * 9-12.CT.2 - Collect and evaluate data from multiple sources for use in a computational artifact.
@@ -28,6 +29,7 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Tools Used
+Python, 
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 
 ---
@@ -38,13 +40,12 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
 
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
 
 ---
