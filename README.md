@@ -16,8 +16,8 @@ Game Design with Python is a fun engaging Unit that will be introduced to studen
 
 ---
 
-### Standards Reference
-List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
+### NY State Standards 
+<!--The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation) -->
  * 9-12.CT.1 - Create a simple digital model that makes predictions of outcomes.
  * 9-12.CT.2 - Collect and evaluate data from multiple sources for use in a computational artifact.
  *  9-12.CT.3 - Refine and visualize complex data sets showing how to tell different stories with the same data set.
