@@ -11,11 +11,11 @@ Game Design with Python is a fun engaging Unit that will come after the students
 ---
 
 ### Motivation for Unit
-Python is higly versatile programming language. It can be used to create both small and complex programs across all types of industries. It is one of the fastest growing, in demand programming languages. After the CSP AP exams, students are looking to decompress and are looking for fun engaging assignments. This Unit   
-will comprise of some mini python games that will not only introduce students to python as an oject oriented programming language. This Unit will take some skills that they have already learnt and extend that into creating fun interactive python games.
+
+<p>Python is higly versatile programming language. It can be used to create both small and complex programs across all types of industries. It is one of the fastest growing, in demand programming languages. After the CSP AP exams, students are looking to decompress and are looking for fun engaging assignments. This Unit will comprise of some mini python games that will not only introduce students to python as an oject oriented programming language. This Unit will take some skills that they have already learnt and extend that into creating fun interactive python games.</p>
 ---
 
-### Standards Reference,
+### Standards Reference
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
  * 9-12.CT.1 - Create a simple digital model that makes predictions of outcomes.
  * 9-12.CT.2 - Collect and evaluate data from multiple sources for use in a computational artifact.
@@ -29,7 +29,7 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Tools Used
-Python, 
+Python 
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 
 ---
