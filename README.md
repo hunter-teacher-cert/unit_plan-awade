@@ -4,15 +4,16 @@ by Alicia Wade
 -----
 
 ### General Overview
-Game Design with Python is a fun engaging Unit that will come after the students have completed the AP CSP exam. With about a month of class left in the school year, students will engage in a series of lessons that will build on the skills that they already know and learn to program with python to build a series of interactive games in this object oriented platform. 
-(include here description of unit, what class(es) it fits into, when...)
+Game Design with Python is a fun engaging Unit that will be introduced to students after they have completed the AP CSP exam. With about a month of class left in the school year, students will engage in a series of lessons that will build on the skills that they already know and learn to program with python to build a series of interactive games that can range from simple one-button games to more complex strategy ones. 
 
+<!-- (include here description of unit, what class(es) it fits into, when...)
+ -->
 
 ---
 
 ### Motivation for Unit
+<p>Python is higly versatile programming language. It can be used to create both small and complex programs across all types of industries. It is one of the fastest growing, in demand programming languages. After the CSP AP exams, students are looking to decompress and are looking for fun engaging assignments. This Unit will comprise of some mini python games that will not only introduce students to python as an oject oriented programming language, but will also take some skills that they have already learnt and extend that into creating fun interactive games.</p>
 
-<p>Python is higly versatile programming language. It can be used to create both small and complex programs across all types of industries. It is one of the fastest growing, in demand programming languages. After the CSP AP exams, students are looking to decompress and are looking for fun engaging assignments. This Unit will comprise of some mini python games that will not only introduce students to python as an oject oriented programming language. This Unit will take some skills that they have already learnt and extend that into creating fun interactive python games.</p>
 ---
 
 ### Standards Reference
@@ -29,21 +30,24 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Tools Used
-Python 
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+* Latest version of Python 
+* Pygame
+* Pygame Zero
 
+<!-- (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+ -->
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
+<!-- (include any links/books/readings to be used during this unit) -->
 
 ---
 
 ### Lessons
 Total lenght: 2 Weeks
 
-(list each lesson with main topic(s))
-
+<!-- (list each lesson with main topic(s))
+ -->
 ---
 
 ### Assesments
