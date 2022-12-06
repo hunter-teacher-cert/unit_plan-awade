@@ -53,10 +53,10 @@ Total length: 3 Weeks
 * Lesson 4 - Randomisation
 * Lesson 5 - Arithmetic Expression
 * Lesson 6 - Selection
-* Lesson 7 - 
-* Lesson 8 - 
-* Lesson 9 - 
-* Lesson 10 -
+* Lesson 7 - Selection Challenge
+* Lesson 8 - Logival Expressions
+* Lesson 9 - Nested Selection Pt 1
+* Lesson 10 - Nested Selection - Vegatable Game
 
 <!-- (list each lesson with main topic(s))
  -->
