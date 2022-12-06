@@ -41,21 +41,22 @@ Game Design with Python is a fun engaging Unit that will be introduced to studen
 ### Resources
 <!-- (include any links/books/readings to be used during this unit) -->
 Coding Games in Python
+TeachComputing.org
 
 ---
 
 ### Lessons
-Total lenght: 2 Weeks
-* Lesson 1 - Intro - Printing in Python.
-* Lesson 2 - Creating variables
-* Lesson 3 - Making decisions
-* Lesson 4 - Playing with Loops
-* Lesson 5 - Functions 
-* Lesson 6 - Game 1 -  Shoot the Fruit
-* Lesson 7 - Game 2 - Coin Collector
-* Lesson 8 - Game 3 - Red Alert
-* Lesson 9 - Game 4 - Big  Quiz
-* Lesson 10 - Choice of Game - Dance Challenge, Happy Garden or Sleeping Dragons
+Total length: 3 Weeks
+* Lesson 1 - Intro - Sequencing
+* Lesson 2 - variables
+* Lesson 3 - Input
+* Lesson 4 - Randomisation
+* Lesson 5 - Arithmetic Expression
+* Lesson 6 - Selection
+* Lesson 7 - 
+* Lesson 8 - 
+* Lesson 9 - 
+* Lesson 10 -
 
 <!-- (list each lesson with main topic(s))
  -->
