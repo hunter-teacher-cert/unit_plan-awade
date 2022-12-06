@@ -1,10 +1,10 @@
-# Game Design with Python
+# Intro to Game Design with Python
 by Alicia Wade
 
 -----
 
 ### General Overview
-Game Design with Python is a fun engaging Unit that will be introduced to students after they have completed the AP CSP exam. With about a month of class left in the school year, students will engage in a series of lessons that will build on the skills that they already know and learn to program with python to build a series of interactive games that can range from simple one-button games to more complex strategy ones. This Unit will take students from a mostly block-based programming language to a text based object orientated language. 
+Intro to Game Design with Python is a fun engaging Unit that will be introduced to students after they have completed the AP CSP exam. With about a month of class left in the school year, students will engage in a series of lessons that will build on the skills that they already know and learn to program with python to build a series of interactive games that can range from simple one-button games to more complex strategy ones. This Unit will take students from a mostly block-based programming language to a text based object orientated language. 
 
 <!-- (include here description of unit, what class(es) it fits into, when...)
  -->
