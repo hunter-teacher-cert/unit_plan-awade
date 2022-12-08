@@ -42,6 +42,9 @@ Intro to Game Design with Python is a fun engaging Unit that will be introduced 
 <!-- (include any links/books/readings to be used during this unit) -->
 * Coding Games in Python
 * TeachComputing.org
+* CodeHS
+* Codeacademy
+* 
 
 ---
 
