@@ -53,7 +53,7 @@ Total length: 3 Weeks
 * Lesson 1 - Intro - Sequencing
 * Lesson 2 - variables
 * Lesson 3 - Input
-* Lesson 4 - Randomisation
+* Lesson 4 - Randomization
 * Lesson 5 - Arithmetic Expression
 * Lesson 6 - Selection
 * Lesson 7 - Selection Challenge
