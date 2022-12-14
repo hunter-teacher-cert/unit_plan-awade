@@ -48,7 +48,7 @@ Intro to Game Design with Python is a fun engaging Unit that will be introduced 
 ---
 
 ### Lessons
-Total length: 3 Weeks
+Total length: 2 Weeks
 * Lesson 1 - Intro - Sequencing
 * Lesson 2 - variables
 * Lesson 3 - Input
@@ -65,9 +65,10 @@ Total length: 3 Weeks
 ---
 
 ### Assesments
-Assesments
 (Summative/Formative Assessments)
-Entry and Exit Tickets
-Lesson Code Solutions
-Completed Programs
+<p>Entry and Exit Tickets</p>
+<p>Lesson Handout</p>
+<p>Completed Programs</p>
+
+
 ---
