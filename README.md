@@ -44,7 +44,6 @@ Intro to Game Design with Python is a fun engaging Unit that will be introduced 
 * TeachComputing.org
 * CodeHS
 * Codeacademy
-* 
 
 ---
 
@@ -66,5 +65,9 @@ Total length: 3 Weeks
 ---
 
 ### Assesments
-
+Assesments
+(Summative/Formative Assessments)
+Entry and Exit Tickets
+Lesson Code Solutions
+Completed Programs
 ---
